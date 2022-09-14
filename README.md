@@ -6,7 +6,9 @@
 
 - 🌱 I’m currently learning **E-commerce conversion optimization**
 
-- 📚 My background **My main programming languages are PHP and Javascript**
+- 📚 My background **Merging Human Biology with Marketing. Neuromarketing**
+
+- 📚 My programming background **I focus on Web Development so my main programming languages are PHP and Javascript.**
 
 - 📫 How to reach me **jcmatoskx@gmail.com**
 
