@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **Starting to actually use Github more often**
 
-- ⚙️ My main projects are [https://evolt.pt/](https://evolt.pt/) & [https://impressao3dportugal.pt/](https://impressao3dportugal.pt/) 
+- ⚙️ My main projects **are currently in the Maker space & 3D Printing industry. You can find them here: [evolt.pt](https://evolt.pt/) & [impressao3dportugal.pt](https://impressao3dportugal.pt/)**
 
 - 🌱 I’m currently learning **E-commerce conversion optimization**
 
