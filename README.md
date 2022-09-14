@@ -2,6 +2,8 @@
 
 - 🔭 I’m currently working on **Starting to actually use Github more often**
 
+- ⚙️ My main projects are [https://evolt.pt/](https://evolt.pt/) & [https://impressao3dportugal.pt/](https://impressao3dportugal.pt/) 
+
 - 🌱 I’m currently learning **E-commerce conversion optimization**
 
 - 📚 My background **My main programming languages are PHP and Javascript**
