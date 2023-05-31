@@ -14,7 +14,7 @@
 
 - 🏆 Something about me **I'm a pragmatic hippie into things like bio-hacking, meditation and permanent personal development.**
 
-- 🏆 This is my personal website [TheJaime](http://thejaime.com/)
+- 😎 This is my personal website **[TheJaime](http://thejaime.com/)**
 
 
 
